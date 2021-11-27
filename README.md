@@ -34,7 +34,7 @@ Este repositório tem como objetivo adquirir conhecimentos em C#, .NET e SQL, al
 18. Mentoria #3: Tiire suas dúvidas sobre programação orientada a objetos com exemplos práticos
 19. Mentoria #4: Inclusão e diiversidade na Avanade
 20. Mentoria #5: Testes de Software em .NET. Exemplos de utilização com experts da Avanade
-21. Programando em C#
+21. [Programando em C#](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/programando-C%23)
 22. Criando um APP simples de cadastros de séries em .NET
 23. SQL Server - criando suas priimeiras consultas
 24. Modelando um banco de dados na prática com SQL Server
