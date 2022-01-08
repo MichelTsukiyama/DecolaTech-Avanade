@@ -22,20 +22,19 @@ Este repositório tem como objetivo adquirir conhecimentos em C#, .NET e SQL, al
 6. Criando seu Primeiro Repositório no GitHub para compartilhar seu progresso
 7. IDE Instalação e Configuração (Visual Studio)
 8. Introdução ao C# e .NET
-9. Primeiros passos com .NET
-10. Criando ambiente de desenvolvimento
-11. Programando com Orientação a Objeto com C#
-12. Construtores, Propriedades, Delegates e evventos em .NET
-13. Criando o ambiente de desenvolvimento
-14. Fundamentos de Coleções e LINQ com .NET
-15. Introdução a microsserviços com .NET
-16. Introdução a Design Patterns com .NET
-17. Mentoria #2: Como resolver o desafio de código
-18. Mentoria #3: Tiire suas dúvidas sobre programação orientada a objetos com exemplos práticos
-19. Mentoria #4: Inclusão e diiversidade na Avanade
-20. Mentoria #5: Testes de Software em .NET. Exemplos de utilização com experts da Avanade
-21. [Programando em C#](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/programando-C%23)
-22. Criando um APP simples de cadastros de séries em .NET
-23. [SQL Server - criando suas priimeiras consultas](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/sql-server-primeiras-consultas)
-24. Modelando um banco de dados na prática com SQL Server
-25. Criando uma API REST Simples com .NET Core
+9. [Primeiros passos com .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/primeiros-passos-.NET)
+10. [Programando com Orientação a Objeto com C#](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/Prog-Orientacao-Objeto-C%23)
+11. [Construtores, Propriedades, Delegates e evventos em .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/Construtores-Propriedades-Delegates-Eventos)
+12. Criando o ambiente de desenvolvimento
+13. Fundamentos de Coleções e LINQ com .NET
+14. Introdução a microsserviços com .NET
+15. Introdução a Design Patterns com .NET
+16. Mentoria #2: Como resolver o desafio de código
+17. Mentoria #3: Tire suas dúvidas sobre programação orientada a objetos com exemplos práticos
+18. Mentoria #4: Inclusão e diversidade na Avanade
+19. Mentoria #5: Testes de Software em .NET. Exemplos de utilização com experts da Avanade
+20. [Programando em C#](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/programando-C%23)
+21. Criando um APP simples de cadastros de séries em .NET
+22. [SQL Server - criando suas primeiras consultas](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/sql-server-primeiras-consultas)
+23. Modelando um banco de dados na prática com SQL Server
+24. Criando uma API REST Simples com .NET Core
