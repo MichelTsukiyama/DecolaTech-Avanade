@@ -27,8 +27,8 @@ Este repositório tem como objetivo adquirir conhecimentos em C#, .NET e SQL, al
 11. [Construtores, Propriedades, Delegates e evventos em .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/Construtores-Propriedades-Delegates-Eventos)
 12. Criando o ambiente de desenvolvimento
 13. Fundamentos de Coleções e LINQ com .NET
-14. Introdução a microsserviços com .NET
-15. Introdução a Design Patterns com .NET
+14. [Introdução a microsserviços com .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/Microsservicos)
+15. [Introdução a Design Patterns com .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/Design-Patterns)
 16. Mentoria #2: Como resolver o desafio de código
 17. Mentoria #3: Tire suas dúvidas sobre programação orientada a objetos com exemplos práticos
 18. Mentoria #4: Inclusão e diversidade na Avanade
