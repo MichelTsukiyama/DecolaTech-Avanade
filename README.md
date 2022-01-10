@@ -34,7 +34,7 @@ Este repositório tem como objetivo adquirir conhecimentos em C#, .NET e SQL, al
 18. Mentoria #4: Inclusão e diversidade na Avanade
 19. Mentoria #5: Testes de Software em .NET. Exemplos de utilização com experts da Avanade
 20. [Programando em C#](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/programando-C%23)
-21. Criando um APP simples de cadastros de séries em .NET
+21. [Criando um APP simples de cadastros de séries em .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/DIO.Series)
 22. [SQL Server - criando suas primeiras consultas](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/sql-server-primeiras-consultas)
 23. Modelando um banco de dados na prática com SQL Server
 24. Criando uma API REST Simples com .NET Core

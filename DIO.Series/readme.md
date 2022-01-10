@@ -1,6 +1,6 @@
 # Projeto Criando um APP simples de cadastro de séries em .NET
 
-O projeto cria os métodos de um sistema CRUD, create, remove, update, delete, em C#.
+O projeto cria os métodos de um sistema CRUD, create, read, update, delete, em C#.
 
 Este projeto auxiliou a elucidar e praticar a utilização de classe abstrata, interface, enum, métodos etc.
 
