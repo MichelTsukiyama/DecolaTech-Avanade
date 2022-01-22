@@ -29,7 +29,7 @@ Este repositório tem como objetivo adquirir conhecimentos em C#, .NET e SQL, al
 13. Fundamentos de Coleções e LINQ com .NET
 14. [Introdução a microsserviços com .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/Microsservicos)
 15. [Introdução a Design Patterns com .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/Design-Patterns)
-16. Mentoria #2: Como resolver o desafio de código
+16. [Mentoria #2: Como resolver o desafio de código](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/resolvendo-desafios-de-codigo)
 17. Mentoria #3: Tire suas dúvidas sobre programação orientada a objetos com exemplos práticos
 18. Mentoria #4: Inclusão e diversidade na Avanade
 19. Mentoria #5: Testes de Software em .NET. Exemplos de utilização com experts da Avanade
@@ -37,4 +37,9 @@ Este repositório tem como objetivo adquirir conhecimentos em C#, .NET e SQL, al
 21. [Criando um APP simples de cadastros de séries em .NET](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/DIO.Series)
 22. [SQL Server - criando suas primeiras consultas](https://github.com/MichelTsukiyama/DecolaTech-Avanade/tree/main/sql-server-primeiras-consultas)
 23. Modelando um banco de dados na prática com SQL Server
-24. Criando uma API REST Simples com .NET Core
+24. Boas práticas em bancos relacionais
+25. [Criando uma API REST Simples com .NET Core](https://github.com/MichelTsukiyama/API-Rest-simples)
+
+---
+
+Obs. API ainda não funcionou =/
